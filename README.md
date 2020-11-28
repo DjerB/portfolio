@@ -1,4 +1,4 @@
-# Personal portfolio powered by Gatsby and React
+# Personal portfolio powered by Gatsby and React (UNDER DEVELOPMENT)
 
 <img src="demo.gif" width="700" />
 
