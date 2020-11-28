@@ -1,3 +1,7 @@
+# Personal portfolio powered by Gatsby and React
+
+<img src="demo.gif" width="700" />
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
