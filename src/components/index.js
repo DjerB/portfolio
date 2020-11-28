@@ -1,0 +1,11 @@
+export { default as Head } from './head';
+export { default as Hero } from './hero';
+export { default as Bio } from './bio';
+export { default as Experience } from './experience';
+export { default as Projects } from './projects';
+export { default as Contact } from './contact';
+export { default as Layout } from './layout';
+export { default as Socials } from './socials';
+export { default as Icon } from './icons';
+export { default as Loader } from './loader';
+export { default as Nav } from './nav';
